@@ -1,5 +1,5 @@
 #!/usr/bin/env python
-# _*_conding:utf-8_*_
+# _*_coding:utf-8_*_
 import paramiko,ConfigParser,threading,paramiko.ssh_exception
 
 class Paramiko(object):
